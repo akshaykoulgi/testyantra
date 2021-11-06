@@ -11,4 +11,13 @@ public class Newbat {
 		System.out.println("room vrrom ");
 		
 	}
+	
+	@Test
+	public void mobile() {
+		
+		System.out.println("ghichhh ");
+		
+	}
+	
+	
 }
